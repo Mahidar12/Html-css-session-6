@@ -1,0 +1,80 @@
+.container{
+    width: 1100px;
+    margin: auto;
+    
+
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1100px;
+    border-color: grey;
+}
+img{
+    width: 150px;
+    
+}
+a{
+position: relative;
+left: 430px;
+margin: 25px;
+color: rgb(165, 165, 165);
+font-weight: 600;
+}
+.b{
+    font-size: 20px;
+    font-weight: 800;
+}
+.n{
+    width: 400px;
+    position: relative;
+    top: 60px;
+    margin-left: 470px;
+     
+}
+.kj{
+    font-weight: 200;
+    position:relative;
+    top: 100px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 20px;
+    
+}
+.ml{
+    font-weight: 100;
+}
+.x{
+    color: rgb(105, 100, 100);
+    font-weight: 500;
+}
+.bn {
+      
+    text-align: center;
+    position: relative;
+    top: 100px;
+    left: 600px;
+    font-size: 25px;
+    color: white;
+    width: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    
+    background-color: dodgerblue;
+    
+    
+}
+.mj  :hover{
+     background-color: rgb(41, 44, 48);
+}
+.pn:hover{
+color: dodgerblue;
+
+}
+.container{
+    border-color: grey;
+    border-bottom: 1100px;
+}
